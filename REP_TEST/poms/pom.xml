@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/sample_0.1</module>
+    <module>jobs/process/testmatch_0.1</module>
   </modules>
   <properties>
     <talend.project.name>REP_TEST</talend.project.name>
